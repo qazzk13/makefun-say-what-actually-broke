@@ -1,4 +1,4 @@
-// Entry for "Say What Actually Broke": writes one honest upload-error line to /output/entry.txt.
+// Entry for "Say What Actually Broke": writes a single honest upload-error line to /output/entry.txt.
 import { mkdirSync, writeFileSync } from "node:fs";
 
 process.umask(0o022);

@@ -7,7 +7,7 @@ This is my entry for the make.fun bounty "Say What Actually Broke", which carrie
 
 > Upload failed: that file is 2.3 GB, the limit is 25 MB, and renaming it final_v9.pdf did not make it any smaller.
 
-Honestly, everyone has been on one side of this. You hit upload, the bar spins, and then some vague "something went wrong" shows up while the real problem is sitting right there: the file is nearly a hundred times over the limit. And the rename bit is the part that gets me — as if calling it `final_v9.pdf` was going to shave off a couple of gigabytes. A good error message should say the actual numbers, name the actual limit, and gently close the loophole you were about to try, which is exactly what this line tries to do.
+Honestly, pretty much everyone has been on one side of this. You hit upload, the bar spins, and then some vague "something went wrong" shows up while the real problem is sitting right there: the file is nearly a hundred times over the limit. And the rename bit is the part that gets me — as if calling it `final_v9.pdf` was going to shave off a couple of gigabytes. A good error message should say the actual numbers, name the actual limit, and gently close the loophole you were about to try, which is exactly what this line tries to do.
 
 ## Run it
 
