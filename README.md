@@ -8,7 +8,7 @@ One line of error copy, 113 characters, that says what actually broke instead of
 
 > Upload failed: that file is 2.3 GB, the limit is 25 MB, and renaming it final_v9.pdf did not make it any smaller.
 
-Anyone who has sat through a stalled upload bar knows this file. It has been exported, zipped, re-exported, and renamed so many times that the name stopped meaning anything around v4. The error just says the two numbers out loud and lets the user figure out the rest, which is all an honest dialog can do.
+Anyone who has sat through a stalled upload bar knows this file. It got exported, zipped, re-exported and renamed so many times that the name stopped meaning anything around v4. The error just says the two numbers out loud and lets the user figure out the rest, which is all an honest dialog can do.
 
 ## Run it
 
