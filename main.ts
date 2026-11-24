@@ -9,7 +9,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 process.umask(0o022);
 
 const LINE =
-  "Upload failed: your file is 2.3 GB and the limit is 25 MB, so it never stood a chance, whatever you renamed it.";
+  "Upload failed: that file is 2.3 GB, the limit is 25 MB, and renaming it final_v9.pdf did not make it any smaller.";
 
 if (LINE.length < 1 || LINE.length > 200) {
   throw new Error(`entry line must be 1-200 characters, got ${LINE.length}`);
