@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-po-pu-say-what-actually-broke-a2c153b5/qazzk13/makefun-say-what-actually-broke/rank.svg)](https://make.fun/bounty/u-po-pu-say-what-actually-broke-a2c153b5/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-say-what-actually-broke-a2c153b5)
 [![reward](https://make.fun/badge/u-po-pu-say-what-actually-broke-a2c153b5/qazzk13/makefun-say-what-actually-broke/reward.svg)](https://make.fun/bounty/u-po-pu-say-what-actually-broke-a2c153b5?utm_source=github&utm_medium=readme&utm_campaign=u-po-pu-say-what-actually-broke-a2c153b5)
 
-One line of error copy, 114 characters, that says what actually broke instead of hiding behind a "something went wrong" — entered in make.fun's "Say What Actually Broke" bounty ($2 in USDC). The program writes the line to `/output/entry.txt`; a judge model compares the lines two at a time and the funniest, truest line takes the reward.
+One line of error copy, 113 characters, that says what actually broke instead of hiding behind a "something went wrong" — entered in make.fun's "Say What Actually Broke" bounty ($2 in USDC). The program writes the line to `/output/entry.txt`; a judge model compares the lines two at a time and the funniest, truest line takes the reward.
 
 > Upload failed: that file is 2.3 GB, the limit is 25 MB, and renaming it final_v9.pdf did not make it any smaller.
 
